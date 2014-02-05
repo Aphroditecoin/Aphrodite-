@@ -1,9 +1,9 @@
-Building Klondikecoin
+Building Aphrodite
 
-See doc/readme-qt.rst for instructions on building Klondikecoin-Qt,
+See doc/readme-qt.rst for instructions on building Aphrodite-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Klondikecoin.
+implementation of Aphrodite.
 
-See doc/build-*.txt for instructions on building klondikecoind,
+See doc/build-*.txt for instructions on building Aphrodited,
 the intended-for-services, no-graphical-interface, reference
-implementation of Klondikecoin.
+implementation of Aphrodite.
