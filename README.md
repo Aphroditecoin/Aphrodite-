@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Aphrodite](http://i.imgur.com/19dc1hf.png)
 
 # Aphrodite Coin [APH]
@@ -39,3 +40,6 @@ their feature or bug fix is ready.
 If it is a simple/trivial/non-controversial change, then one of the development team members simply pulls it.
 
 BTCTALK THREAD: https://bitcointalk.org/index.php?topic=407705
+=======
+
+>>>>>>> 33285d8bc46d975b9b899d831d7f5ce5cabfefae
